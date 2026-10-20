@@ -1,0 +1,19 @@
+{
+  "name": "spa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass docs/scss/main.scss docs/css/main.css --watch",
+    "generate:images": "node docs/tools/generate-images-json.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "bulma": "^1.0.4",
+    "sass": "^1.104.1"
+  }
+}
