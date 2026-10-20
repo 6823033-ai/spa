@@ -13,6 +13,14 @@ export const translations = {
     overview: {
       title: "Мэдээллийн сангийн танилцуулга",
     },
+    books: {
+      title: "Ном",
+      view: "Үзэх",
+    },
+    books: {
+      title: "Books",
+      view: "View",
+    },
     search: {
       title: "Хүнс хайх",
     },
